@@ -10,8 +10,8 @@ class script(object):
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {}
 ➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href=https://t.me/MagnusTG>𝑴agnus TG 🇮🇳</a>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href=https://docs.pyrogram.org/>𝑷𝚈𝚁𝙾𝙶𝚁𝙰𝙼 📜</a>
-➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href=https://t.me/hagayhwvwhtf> 𝑪𝙻𝙸𝙲𝙺 𝑯𝙴𝚁𝙴</a>
-➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code> 𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 </code>
+➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href=https://t.me/MyGithubSorceCode> 𝑪𝙻𝙸𝙲𝙺 𝑯𝙴𝚁𝙴</a>
+➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 :<code> 𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 </code>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷𝚈𝚃𝙷𝙾𝙽 𝟹
 ➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href=https://www.mongodb.com>𝑴𝙾𝙽𝙶𝙾 𝙳𝙱</a>
 ➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href=https://dashboard.heroku.com/>𝑯𝙴𝚁𝙾𝙺𝚄</a>
