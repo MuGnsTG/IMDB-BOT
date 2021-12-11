@@ -77,6 +77,13 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
 5. /luck or /cownd - Spin the Lucky"""
+    PASTE_TXT = """Help: <b>Paste</b>
+
+Paste some texts or documents on a website!
+
+<b>Commands and Usage:</b>
+• /paste [text] - paste the given text on Pasty
+• /paste [reply] - paste the replied text on Pasty
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
