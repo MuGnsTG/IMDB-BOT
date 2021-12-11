@@ -110,6 +110,15 @@ Do as you wish with telegra.ph module!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
+    INFO_TXT = """Help: <b>Information</b>
+
+Get information about something!
+
+<b>Commands and Usage:</b>
+• /id - get id of a specifed user.
+• /info  - get information about a user.
+• /json - get the json details of a message.
+
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
