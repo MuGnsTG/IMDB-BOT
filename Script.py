@@ -84,6 +84,32 @@ Paste some texts or documents on a website!
 <b>Commands and Usage:</b>
 • /paste [text] - paste the given text on Pasty
 • /paste [reply] - paste the replied text on Pasty
+
+    SEARCH_TXT = """Help: <b>IMDb</b>
+
+Search many things without leaving telegram!
+
+<b>Commands and Usage:</b>
+• /imdb  - get the film information from IMDb source.
+• /search  - get the film information from various sources.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• More search tools can be found on inline.
+• Those commands works on both pm and group."""
+
+    TGRAPH_TXT = """Help: <b>TGraph & Paste</b>
+
+Do as you wish with telegra.ph module!
+
+<b>Commands and Usage:</b>
+• /tgmedia or /tgraph - upload supported media (within 5MB) to telegraph.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
+
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
